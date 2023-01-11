@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Zengzz&#39;s Blog</title>
+        <title>所有文章 - z³&#39;s Blog</title>
         <link>https://tenno.github.io/posts/</link>
-        <description>所有文章 | Zengzz&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1457526792@qq.com (Zengzz)</managingEditor>
-            <webMaster>1457526792@qq.com (Zengzz)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://tenno.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <description>所有文章 | z³&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1457526792@qq.com (z³)</managingEditor>
+            <webMaster>1457526792@qq.com (z³)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://tenno.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>购物流程</title>
     <link>https://tenno.github.io/2022/shopping-process/</link>
     <pubDate>Tue, 04 Jan 2022 00:00:00 &#43;0000</pubDate>
