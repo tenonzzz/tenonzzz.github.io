@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Shuzang&#39;s Blog</title>
+        <title>Zengzz&#39;s Blog</title>
         <link>https://tenno.github.io/</link>
         <description>书藏的个人博客，记录学习，记录生活</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>liuyang8443@qq.com (Shuzang)</managingEditor>
-            <webMaster>liuyang8443@qq.com (Shuzang)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1457526792@qq.com (Zengzz)</managingEditor>
+            <webMaster>1457526792@qq.com (Zengzz)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 04 Jan 2022 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://tenno.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>购物流程</title>
